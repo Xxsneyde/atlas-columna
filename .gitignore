@@ -1,0 +1,5 @@
+herramientas/bp3d/
+herramientas/node_modules/
+node_modules/
+.vercel
+.DS_Store

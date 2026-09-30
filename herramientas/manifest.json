@@ -1,0 +1,1126 @@
+[
+ {
+  "id": "C1",
+  "kind": "bone",
+  "files": [
+   "FJ3176"
+  ]
+ },
+ {
+  "id": "C2",
+  "kind": "bone",
+  "files": [
+   "FJ3177"
+  ]
+ },
+ {
+  "id": "C3",
+  "kind": "bone",
+  "files": [
+   "FJ3161"
+  ]
+ },
+ {
+  "id": "C4",
+  "kind": "bone",
+  "files": [
+   "FJ3164"
+  ]
+ },
+ {
+  "id": "C5",
+  "kind": "bone",
+  "files": [
+   "FJ3167"
+  ]
+ },
+ {
+  "id": "C6",
+  "kind": "bone",
+  "files": [
+   "FJ3170"
+  ]
+ },
+ {
+  "id": "C7",
+  "kind": "bone",
+  "files": [
+   "FJ3172"
+  ]
+ },
+ {
+  "id": "T1",
+  "kind": "bone",
+  "files": [
+   "FJ3158"
+  ]
+ },
+ {
+  "id": "T2",
+  "kind": "bone",
+  "files": [
+   "FJ3160"
+  ]
+ },
+ {
+  "id": "T3",
+  "kind": "bone",
+  "files": [
+   "FJ3163"
+  ]
+ },
+ {
+  "id": "T4",
+  "kind": "bone",
+  "files": [
+   "FJ3166"
+  ]
+ },
+ {
+  "id": "T5",
+  "kind": "bone",
+  "files": [
+   "FJ3169"
+  ]
+ },
+ {
+  "id": "T6",
+  "kind": "bone",
+  "files": [
+   "FJ3171"
+  ]
+ },
+ {
+  "id": "T7",
+  "kind": "bone",
+  "files": [
+   "FJ3173"
+  ]
+ },
+ {
+  "id": "T8",
+  "kind": "bone",
+  "files": [
+   "FJ3174"
+  ]
+ },
+ {
+  "id": "T9",
+  "kind": "bone",
+  "files": [
+   "FJ3175"
+  ]
+ },
+ {
+  "id": "T10",
+  "kind": "bone",
+  "files": [
+   "FJ3154"
+  ]
+ },
+ {
+  "id": "T11",
+  "kind": "bone",
+  "files": [
+   "FJ3155"
+  ]
+ },
+ {
+  "id": "T12",
+  "kind": "bone",
+  "files": [
+   "FJ3156"
+  ]
+ },
+ {
+  "id": "L1",
+  "kind": "bone",
+  "files": [
+   "FJ3157"
+  ]
+ },
+ {
+  "id": "L2",
+  "kind": "bone",
+  "files": [
+   "FJ3159"
+  ]
+ },
+ {
+  "id": "L3",
+  "kind": "bone",
+  "files": [
+   "FJ3162"
+  ]
+ },
+ {
+  "id": "L4",
+  "kind": "bone",
+  "files": [
+   "FJ3165"
+  ]
+ },
+ {
+  "id": "L5",
+  "kind": "bone",
+  "files": [
+   "FJ3168"
+  ]
+ },
+ {
+  "id": "sacro",
+  "kind": "bone",
+  "files": [
+   "FJ3393"
+  ]
+ },
+ {
+  "id": "costilla1_R",
+  "kind": "bone",
+  "files": [
+   "FJ3334"
+  ]
+ },
+ {
+  "id": "costilla2_R",
+  "kind": "bone",
+  "files": [
+   "FJ3336"
+  ]
+ },
+ {
+  "id": "costilla3_R",
+  "kind": "bone",
+  "files": [
+   "FJ3338"
+  ]
+ },
+ {
+  "id": "costilla4_R",
+  "kind": "bone",
+  "files": [
+   "FJ3340"
+  ]
+ },
+ {
+  "id": "costilla5_R",
+  "kind": "bone",
+  "files": [
+   "FJ3342"
+  ]
+ },
+ {
+  "id": "costilla6_R",
+  "kind": "bone",
+  "files": [
+   "FJ3344"
+  ]
+ },
+ {
+  "id": "costilla7_R",
+  "kind": "bone",
+  "files": [
+   "FJ3346"
+  ]
+ },
+ {
+  "id": "costilla8_R",
+  "kind": "bone",
+  "files": [
+   "FJ3347"
+  ]
+ },
+ {
+  "id": "costilla9_R",
+  "kind": "bone",
+  "files": [
+   "FJ3348"
+  ]
+ },
+ {
+  "id": "costilla10_R",
+  "kind": "bone",
+  "files": [
+   "FJ3330"
+  ]
+ },
+ {
+  "id": "costilla11_R",
+  "kind": "bone",
+  "files": [
+   "FJ3331"
+  ]
+ },
+ {
+  "id": "costilla12_R",
+  "kind": "bone",
+  "files": [
+   "FJ3332"
+  ]
+ },
+ {
+  "id": "cartilago1_R",
+  "kind": "cartilage",
+  "files": [
+   "FJ3333"
+  ]
+ },
+ {
+  "id": "cartilago2_R",
+  "kind": "cartilage",
+  "files": [
+   "FJ3335"
+  ]
+ },
+ {
+  "id": "cartilago3_R",
+  "kind": "cartilage",
+  "files": [
+   "FJ3337"
+  ]
+ },
+ {
+  "id": "cartilago4_R",
+  "kind": "cartilage",
+  "files": [
+   "FJ3339"
+  ]
+ },
+ {
+  "id": "cartilago5_R",
+  "kind": "cartilage",
+  "files": [
+   "FJ3341"
+  ]
+ },
+ {
+  "id": "cartilago6_R",
+  "kind": "cartilage",
+  "files": [
+   "FJ3343"
+  ]
+ },
+ {
+  "id": "cartilago7_R",
+  "kind": "cartilage",
+  "files": [
+   "FJ3345"
+  ]
+ },
+ {
+  "id": "escapula_R",
+  "kind": "bone",
+  "files": [
+   "FJ3384"
+  ]
+ },
+ {
+  "id": "clavicula_R",
+  "kind": "bone",
+  "files": [
+   "FJ3362"
+  ]
+ },
+ {
+  "id": "humero_R",
+  "kind": "bone",
+  "files": [
+   "FJ3368"
+  ]
+ },
+ {
+  "id": "coxal_R",
+  "kind": "bone",
+  "files": [
+   "FJ3152"
+  ]
+ },
+ {
+  "id": "temporal_R",
+  "kind": "bone",
+  "files": [
+   "FJ3386"
+  ]
+ },
+ {
+  "id": "costilla1_L",
+  "kind": "bone",
+  "files": [
+   "FJ3228"
+  ]
+ },
+ {
+  "id": "costilla2_L",
+  "kind": "bone",
+  "files": [
+   "FJ3229"
+  ]
+ },
+ {
+  "id": "costilla3_L",
+  "kind": "bone",
+  "files": [
+   "FJ3230"
+  ]
+ },
+ {
+  "id": "costilla4_L",
+  "kind": "bone",
+  "files": [
+   "FJ3231"
+  ]
+ },
+ {
+  "id": "costilla5_L",
+  "kind": "bone",
+  "files": [
+   "FJ3232"
+  ]
+ },
+ {
+  "id": "costilla6_L",
+  "kind": "bone",
+  "files": [
+   "FJ3233"
+  ]
+ },
+ {
+  "id": "costilla7_L",
+  "kind": "bone",
+  "files": [
+   "FJ3234"
+  ]
+ },
+ {
+  "id": "costilla8_L",
+  "kind": "bone",
+  "files": [
+   "FJ3235"
+  ]
+ },
+ {
+  "id": "costilla9_L",
+  "kind": "bone",
+  "files": [
+   "FJ3236"
+  ]
+ },
+ {
+  "id": "costilla10_L",
+  "kind": "bone",
+  "files": [
+   "FJ3225"
+  ]
+ },
+ {
+  "id": "costilla11_L",
+  "kind": "bone",
+  "files": [
+   "FJ3226"
+  ]
+ },
+ {
+  "id": "costilla12_L",
+  "kind": "bone",
+  "files": [
+   "FJ3227"
+  ]
+ },
+ {
+  "id": "cartilago1_L",
+  "kind": "cartilage",
+  "files": [
+   "FJ3239"
+  ]
+ },
+ {
+  "id": "cartilago2_L",
+  "kind": "cartilage",
+  "files": [
+   "FJ3242"
+  ]
+ },
+ {
+  "id": "cartilago3_L",
+  "kind": "cartilage",
+  "files": [
+   "FJ3245"
+  ]
+ },
+ {
+  "id": "cartilago4_L",
+  "kind": "cartilage",
+  "files": [
+   "FJ3248"
+  ]
+ },
+ {
+  "id": "cartilago5_L",
+  "kind": "cartilage",
+  "files": [
+   "FJ3251"
+  ]
+ },
+ {
+  "id": "cartilago6_L",
+  "kind": "cartilage",
+  "files": [
+   "FJ3254"
+  ]
+ },
+ {
+  "id": "cartilago7_L",
+  "kind": "cartilage",
+  "files": [
+   "FJ3255"
+  ]
+ },
+ {
+  "id": "escapula_L",
+  "kind": "bone",
+  "files": [
+   "FJ3279"
+  ]
+ },
+ {
+  "id": "clavicula_L",
+  "kind": "bone",
+  "files": [
+   "FJ3237"
+  ]
+ },
+ {
+  "id": "humero_L",
+  "kind": "bone",
+  "files": [
+   "FJ3262"
+  ]
+ },
+ {
+  "id": "coxal_L",
+  "kind": "bone",
+  "files": [
+   "FJ3288"
+  ]
+ },
+ {
+  "id": "temporal_L",
+  "kind": "bone",
+  "files": [
+   "FJ3281"
+  ]
+ },
+ {
+  "id": "occipital",
+  "kind": "bone",
+  "files": [
+   "FJ3309"
+  ]
+ },
+ {
+  "id": "esternon",
+  "kind": "bone",
+  "files": [
+   "FJ3153",
+   "FJ3178",
+   "FJ3290"
+  ]
+ },
+ {
+  "id": "disco_C2",
+  "kind": "disc",
+  "files": [
+   "FJ3202"
+  ]
+ },
+ {
+  "id": "disco_C3",
+  "kind": "disc",
+  "files": [
+   "FJ3213"
+  ]
+ },
+ {
+  "id": "disco_C4",
+  "kind": "disc",
+  "files": [
+   "FJ3218"
+  ]
+ },
+ {
+  "id": "disco_C5",
+  "kind": "disc",
+  "files": [
+   "FJ3219"
+  ]
+ },
+ {
+  "id": "disco_C6",
+  "kind": "disc",
+  "files": [
+   "FJ3220"
+  ]
+ },
+ {
+  "id": "disco_C7",
+  "kind": "disc",
+  "files": [
+   "FJ3221"
+  ]
+ },
+ {
+  "id": "disco_T1",
+  "kind": "disc",
+  "files": [
+   "FJ3222"
+  ]
+ },
+ {
+  "id": "disco_T2",
+  "kind": "disc",
+  "files": [
+   "FJ3223"
+  ]
+ },
+ {
+  "id": "disco_T3",
+  "kind": "disc",
+  "files": [
+   "FJ3224"
+  ]
+ },
+ {
+  "id": "disco_T4",
+  "kind": "disc",
+  "files": [
+   "FJ3203"
+  ]
+ },
+ {
+  "id": "disco_T5",
+  "kind": "disc",
+  "files": [
+   "FJ3204"
+  ]
+ },
+ {
+  "id": "disco_T6",
+  "kind": "disc",
+  "files": [
+   "FJ3205"
+  ]
+ },
+ {
+  "id": "disco_T7",
+  "kind": "disc",
+  "files": [
+   "FJ3206"
+  ]
+ },
+ {
+  "id": "disco_T8",
+  "kind": "disc",
+  "files": [
+   "FJ3207"
+  ]
+ },
+ {
+  "id": "disco_T9",
+  "kind": "disc",
+  "files": [
+   "FJ3208"
+  ]
+ },
+ {
+  "id": "disco_T10",
+  "kind": "disc",
+  "files": [
+   "FJ3209"
+  ]
+ },
+ {
+  "id": "disco_T11",
+  "kind": "disc",
+  "files": [
+   "FJ3210"
+  ]
+ },
+ {
+  "id": "disco_L1",
+  "kind": "disc",
+  "files": [
+   "FJ3212"
+  ]
+ },
+ {
+  "id": "disco_L2",
+  "kind": "disc",
+  "files": [
+   "FJ3214"
+  ]
+ },
+ {
+  "id": "disco_L3",
+  "kind": "disc",
+  "files": [
+   "FJ3215"
+  ]
+ },
+ {
+  "id": "disco_L4",
+  "kind": "disc",
+  "files": [
+   "FJ3216"
+  ]
+ },
+ {
+  "id": "disco_L5",
+  "kind": "disc",
+  "files": [
+   "FJ3217"
+  ]
+ },
+ {
+  "id": "trap_desc_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1521"
+  ]
+ },
+ {
+  "id": "trap_desc_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1521M"
+  ]
+ },
+ {
+  "id": "trap_trans_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1554"
+  ]
+ },
+ {
+  "id": "trap_trans_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1554M"
+  ]
+ },
+ {
+  "id": "trap_asc_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1520"
+  ]
+ },
+ {
+  "id": "trap_asc_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1520M"
+  ]
+ },
+ {
+  "id": "romb_may_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1536"
+  ]
+ },
+ {
+  "id": "romb_may_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1536M"
+  ]
+ },
+ {
+  "id": "romb_men_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1537"
+  ]
+ },
+ {
+  "id": "romb_men_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1537M"
+  ]
+ },
+ {
+  "id": "elev_esc_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1532"
+  ]
+ },
+ {
+  "id": "elev_esc_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1532M"
+  ]
+ },
+ {
+  "id": "serr_ps_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1542"
+  ]
+ },
+ {
+  "id": "serr_ps_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1542M"
+  ]
+ },
+ {
+  "id": "serr_pi_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1541"
+  ]
+ },
+ {
+  "id": "serr_pi_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1541M"
+  ]
+ },
+ {
+  "id": "espl_cab_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1545"
+  ]
+ },
+ {
+  "id": "espl_cab_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1545M"
+  ]
+ },
+ {
+  "id": "espl_cue_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1546"
+  ]
+ },
+ {
+  "id": "espl_cue_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1546M"
+  ]
+ },
+ {
+  "id": "ilio_lum_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1527"
+  ]
+ },
+ {
+  "id": "ilio_lum_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1527M"
+  ]
+ },
+ {
+  "id": "ilio_tor_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1528"
+  ]
+ },
+ {
+  "id": "ilio_tor_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1528M"
+  ]
+ },
+ {
+  "id": "ilio_cer_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1526"
+  ]
+ },
+ {
+  "id": "ilio_cer_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1526M"
+  ]
+ },
+ {
+  "id": "long_tor_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1535"
+  ]
+ },
+ {
+  "id": "long_tor_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1535M"
+  ]
+ },
+ {
+  "id": "long_cer_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1534"
+  ]
+ },
+ {
+  "id": "long_cer_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1534M"
+  ]
+ },
+ {
+  "id": "long_cab_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1533"
+  ]
+ },
+ {
+  "id": "long_cab_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1533M"
+  ]
+ },
+ {
+  "id": "espinoso_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1544"
+  ]
+ },
+ {
+  "id": "espinoso_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1544M"
+  ]
+ },
+ {
+  "id": "semi_tor_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1540"
+  ]
+ },
+ {
+  "id": "semi_tor_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1540M"
+  ]
+ },
+ {
+  "id": "semi_cer_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1539"
+  ]
+ },
+ {
+  "id": "semi_cer_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1539M"
+  ]
+ },
+ {
+  "id": "semi_cab_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1538"
+  ]
+ },
+ {
+  "id": "semi_cab_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1538M"
+  ]
+ },
+ {
+  "id": "rot_cer_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1524"
+  ]
+ },
+ {
+  "id": "rot_cer_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1524M"
+  ]
+ },
+ {
+  "id": "rot_lum_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1522"
+  ]
+ },
+ {
+  "id": "rot_lum_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1522M"
+  ]
+ },
+ {
+  "id": "intesp_tor_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1551"
+  ]
+ },
+ {
+  "id": "intesp_tor_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1551M"
+  ]
+ },
+ {
+  "id": "rcp_may_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1589"
+  ]
+ },
+ {
+  "id": "rcp_may_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1567"
+  ]
+ },
+ {
+  "id": "rcp_men_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1590"
+  ]
+ },
+ {
+  "id": "rcp_men_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1568"
+  ]
+ },
+ {
+  "id": "obl_sup_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1585"
+  ]
+ },
+ {
+  "id": "obl_sup_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1564"
+  ]
+ },
+ {
+  "id": "obl_inf_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1584"
+  ]
+ },
+ {
+  "id": "obl_inf_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1563"
+  ]
+ },
+ {
+  "id": "elev_cost_R",
+  "kind": "muscle",
+  "files": [
+   "FJ1462",
+   "FJ1463"
+  ]
+ },
+ {
+  "id": "elev_cost_L",
+  "kind": "muscle",
+  "files": [
+   "FJ1462M",
+   "FJ1463M"
+  ]
+ },
+ {
+  "id": "rot_tor",
+  "kind": "muscle",
+  "files": [
+   "FJ1525",
+   "FJ1525M"
+  ],
+  "splitBySide": true
+ },
+ {
+  "id": "intesp_cer",
+  "kind": "muscle",
+  "files": [
+   "FJ1552",
+   "FJ1552M"
+  ],
+  "splitBySide": true
+ },
+ {
+  "id": "intesp_lum",
+  "kind": "muscle",
+  "files": [
+   "FJ1550",
+   "FJ1550M"
+  ],
+  "splitBySide": true
+ },
+ {
+  "id": "intert_cer",
+  "kind": "muscle",
+  "files": [
+   "FJ1549",
+   "FJ1549M",
+   "FJ1553",
+   "FJ1553M"
+  ],
+  "splitBySide": true
+ },
+ {
+  "id": "intert_lum",
+  "kind": "muscle",
+  "files": [
+   "FJ1547",
+   "FJ1547M",
+   "FJ1548",
+   "FJ1548M"
+  ],
+  "splitBySide": true
+ }
+]
